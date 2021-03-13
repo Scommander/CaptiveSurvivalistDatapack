@@ -4,7 +4,7 @@ The "Captive Survivalist" (Minecraft, But The Last To Survive Wins) Datapack | [
 
 **If using this creation in a video I ask that you paste the following into your description:**
 
-    "Captive Survivalist" datapack by Scommander [www.youtube.com/c/scommander]
+    "Captive Survivalist" datapack by Scommander [https://www.youtube.com/c/scommander]
 
     Download Datapack: [https://github.com/Scommander/CaptiveSurvivalistDatapack/releases]
 
