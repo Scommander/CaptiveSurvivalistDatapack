@@ -1,0 +1,1 @@
+execute as @a[nbt={OnGround:1b}] at @s run function confined_survivalist:world_height/teleport

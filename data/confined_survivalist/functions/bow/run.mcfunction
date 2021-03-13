@@ -1,0 +1,1 @@
+execute unless entity @e[type=minecraft:armor_stand,tag=_conSur_bow] run function confined_survivalist:bow/give

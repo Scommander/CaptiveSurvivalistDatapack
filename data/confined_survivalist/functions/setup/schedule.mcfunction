@@ -1,0 +1,1 @@
+schedule function confined_survivalist:setup/on_reload 20t
