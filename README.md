@@ -1,6 +1,4 @@
-# CaptiveSurvivalistDatapack
-
-## [Download Datapack](https://github.com/Scommander/CaptiveSurvivalistDatapack/releases)
+# Captive Survivalist Datapack | [Download](https://github.com/Scommander/CaptiveSurvivalistDatapack/releases)
 
 **If using this creation in a video I ask that you paste the following into your description:**
 
