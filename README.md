@@ -1,6 +1,6 @@
 # CaptiveSurvivalistDatapack
 
-The "Captive Survivalist" (Minecraft, But The Last To Survive Wins) Datapack | [DOWNLOAD](https://github.com/Scommander/CaptiveSurvivalistDatapack/releases)
+## [Download Datapack](https://github.com/Scommander/CaptiveSurvivalistDatapack/releases)
 
 **If using this creation in a video I ask that you paste the following into your description:**
 
